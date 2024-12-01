@@ -1,1 +1,1 @@
-# -Nibel-Prize-Data-Analysis
+# Nibel-Prize-Data-Analysis
